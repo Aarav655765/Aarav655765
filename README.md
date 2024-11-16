@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aarav655765
+- 👋 Hi, I’m @Aaravdevelops
 - 👀 I’m interested in building games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python, HTML, and CSS.
 - 📫 How to reach me mail me at "Contactaaravat@fearlessmails.com"
 - 😄 Pronouns: HE/HIM
 
